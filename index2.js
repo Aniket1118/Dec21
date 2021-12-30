@@ -1,6 +1,6 @@
 // ASSIGNMENT 1 --> to check if alphabet is vowel or not
 var ani = prompt("enter the alphabet");
-if (( ani == "a") || (ani == "A" )) {
+if (( ani == "a") || (ani == "A" )) {  //using or operator here
 alert("it is vowel");
 }
 else if (( ani == "e") || (ani == "E" )) {
