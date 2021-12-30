@@ -1,4 +1,4 @@
-// to check if alphabet is vowel or not
+// ASSIGNMENT 1 --> to check if alphabet is vowel or not
 var ani = prompt("enter the alphabet");
 if (( ani == "a") || (ani == "A" )) {
 alert("it is vowel");
@@ -18,7 +18,7 @@ alert("it is vowel");
 else {
 alert("it is constant") }
 
-// to chek minimum of three numbers entered by the user
+//ASSIGNMENT 2--> to chek minimum of three numbers entered by the user
 
 var pehli = parseInt(prompt("Entr the 1st num")); //we are taking 1st number from the user
 var dusri = parseInt(prompt("Entr the 2nd num")); //we are taking 2nd number from the user
